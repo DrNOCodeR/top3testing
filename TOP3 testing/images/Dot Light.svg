@@ -1,0 +1,19 @@
+<svg width="1677.699707" height="1350.019531" viewBox="0 0 1677.7 1350.02" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_5905_dd" x="0.000000" y="0.000000" width="1677.699707" height="1350.019531" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="100" result="effect_layerBlur_1"/>
+		</filter>
+		<linearGradient x1="311.631287" y1="287.493530" x2="1369.496582" y2="1047.326050" id="paint_linear_1_5905_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F947BC"/>
+			<stop offset="1.000000" stop-color="#F9477C" stop-opacity="0.400000"/>
+		</linearGradient>
+	</defs>
+	<g opacity="0.550000" filter="url(#filter_1_5905_dd)">
+		<path id="Dot Light" d="M972.73 622.93C1261.56 830.39 1404.2 999 1373.64 1041.56C1343.07 1084.12 1057.4 962.56 768.56 755.1C479.72 547.64 284.87 324.74 300.92 302.4C316.96 280.06 683.89 415.46 972.73 622.93Z" fill="url(#paint_linear_1_5905_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
